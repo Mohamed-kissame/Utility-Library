@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mkiss\\OneDrive\\Bureau\\Utility Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{181793FB-67AA-4DC7-9D90-C0C9F0E9CE9E}|Utility Library.vcxproj|C:\\Users\\mkiss\\OneDrive\\Bureau\\Utility Library\\clsUtility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{181793FB-67AA-4DC7-9D90-C0C9F0E9CE9E}|Utility Library.vcxproj|solutionrelative:clsUtility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{181793FB-67AA-4DC7-9D90-C0C9F0E9CE9E}|Utility Library.vcxproj|C:\\Users\\mkiss\\OneDrive\\Bureau\\Utility Library\\Utility Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{181793FB-67AA-4DC7-9D90-C0C9F0E9CE9E}|Utility Library.vcxproj|solutionrelative:Utility Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{181793FB-67AA-4DC7-9D90-C0C9F0E9CE9E}|Utility Library.vcxproj|C:\\Users\\mkiss\\OneDrive\\Bureau\\Utility Library\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{181793FB-67AA-4DC7-9D90-C0C9F0E9CE9E}|Utility Library.vcxproj|solutionrelative:clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{181793FB-67AA-4DC7-9D90-C0C9F0E9CE9E}|Utility Library.vcxproj|C:\\Users\\mkiss\\OneDrive\\Bureau\\Utility Library\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{181793FB-67AA-4DC7-9D90-C0C9F0E9CE9E}|Utility Library.vcxproj|solutionrelative:clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utility Library.cpp",
+              "DocumentMoniker": "C:\\Users\\mkiss\\OneDrive\\Bureau\\Utility Library\\Utility Library.cpp",
+              "RelativeDocumentMoniker": "Utility Library.cpp",
+              "ToolTip": "C:\\Users\\mkiss\\OneDrive\\Bureau\\Utility Library\\Utility Library.cpp*",
+              "RelativeToolTip": "Utility Library.cpp*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T18:14:24.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsUtility.h",
+              "DocumentMoniker": "C:\\Users\\mkiss\\OneDrive\\Bureau\\Utility Library\\clsUtility.h",
+              "RelativeDocumentMoniker": "clsUtility.h",
+              "ToolTip": "C:\\Users\\mkiss\\OneDrive\\Bureau\\Utility Library\\clsUtility.h*",
+              "RelativeToolTip": "clsUtility.h*",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAmwNkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T18:14:58.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsString.h",
+              "DocumentMoniker": "C:\\Users\\mkiss\\OneDrive\\Bureau\\Utility Library\\clsString.h",
+              "RelativeDocumentMoniker": "clsString.h",
+              "ToolTip": "C:\\Users\\mkiss\\OneDrive\\Bureau\\Utility Library\\clsString.h",
+              "RelativeToolTip": "clsString.h",
+              "ViewState": "AgIAAFcCAAAAAAAAAAAuwGwCAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T18:18:46.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsDate.h",
+              "DocumentMoniker": "C:\\Users\\mkiss\\OneDrive\\Bureau\\Utility Library\\clsDate.h",
+              "RelativeDocumentMoniker": "clsDate.h",
+              "ToolTip": "C:\\Users\\mkiss\\OneDrive\\Bureau\\Utility Library\\clsDate.h",
+              "RelativeToolTip": "clsDate.h",
+              "ViewState": "AgIAADIEAAAAAAAAAAAAAE8EAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T18:18:12.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

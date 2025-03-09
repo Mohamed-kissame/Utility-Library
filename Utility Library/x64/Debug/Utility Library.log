@@ -1,0 +1,35 @@
+﻿  Utility Library.cpp
+C:\Users\mkiss\OneDrive\Bureau\Utility Library\clsString.h(164,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility%20Library.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\Utility Library\clsString.h(169,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility%20Library.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\Utility Library\clsString.h(231,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility%20Library.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\Utility Library\clsString.h(305,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility%20Library.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\Utility Library\clsString.h(337,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility%20Library.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\Utility Library\clsString.h(434,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility%20Library.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\Utility Library\clsString.h(478,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility%20Library.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\Utility Library\clsString.h(566,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility%20Library.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\Utility Library\clsString.h(572,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility%20Library.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\Utility Library\clsUtility.h(239,11): warning C4305: 'return': truncation from 'int' to 'char'
+  (compiling source file 'Utility%20Library.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\Utility Library\clsUtility.h(239,11): warning C4309: 'return': truncation of constant value
+  (compiling source file 'Utility%20Library.cpp')
+  
+  Utility Library.vcxproj -> C:\Users\mkiss\OneDrive\Bureau\Utility Library\x64\Debug\Utility Library.exe
